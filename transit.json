@@ -46,5 +46,53 @@
                     "distance":"3 km",
                     "estTimeCar":"7 min",
                     "estTimeWalk":"37 min"
+                },
+                {
+                    "origin":"Tesco Kampar",
+                    "destination":"Bandar Agacia",
+                    "distance":"5.9 km",
+                    "estTimeCar":"11 min",
+                    "estTimeWalk":"1 hr 7 min"
+                },
+                {
+                    "origin":"Econsave Kampar",
+                    "destination":"Bandar Agacia",
+                    "distance":"3.4 km",
+                    "estTimeCar":"7 min",
+                    "estTimeWalk":"41 min"
+                },
+                {
+                    "origin":"UTAR Kampar Campus",
+                    "destination":"Bandar Agacia",
+                    "distance":"4.4 km",
+                    "estTimeCar":"10 min",
+                    "estTimeWalk":"55 min"
+                },
+                {
+                    "origin":"Kampar Putra Sentral Terminal",
+                    "destination":"Bandar Agacia",
+                    "distance":"1.2 km",
+                    "estTimeCar":"3 min",
+                    "estTimeWalk":"14 min"},
+                {
+                    "origin":"Kampar Bus Terminal",
+                    "destination":"Bandar Agacia",
+                    "distance":"5.4 km",
+                    "estTimeCar":"12 min",
+                    "estTimeWalk":"1 hr 5 min"
+                },
+                {   
+                    "origin":"Kampar Railway Station",
+                    "destination":"Bandar Agacia",
+                    "distance":"4.8 km",
+                    "estTimeCar":"11 min",
+                    "estTimeWalk":"58 min"
+                },
+                {   
+                    "origin":"mmCineplexes Kampar",
+                    "destination":"Bandar Agacia",
+                    "distance":"5.7 km",
+                    "estTimeCar":"13 min",
+                    "estTimeWalk":"1 hr 10 min"
                 }]
 }
