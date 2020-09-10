@@ -1,41 +1,48 @@
 {
     "transit":[{
                     "origin":"Tesco Kampar",
+                    "destination":"Taman Bandar Baru Kampar",
                     "distance":"3.5 km",
                     "estTimeCar":"7 min",
                     "estTimeWalk":"39 min"
                 },
                 {
                     "origin":"Econsave Kampar",
+                    "destination":"Taman Bandar Baru Kampar",
                     "distance":"1 km",
                     "estTimeCar":"3 min",
                     "estTimeWalk":"12 min"
                 },
                 {
                     "origin":"UTAR Kampar Campus",
+                    "destination":"Taman Bandar Baru Kampar",
                     "distance":"3.5 km",
                     "estTimeCar":"8 min",
                     "estTimeWalk":"36 min"
                 },
                 {
                     "origin":"Kampar Putra Sentral Terminal",
+                    "destination":"Taman Bandar Baru Kampar",
                     "distance":"3.1 km",
                     "estTimeCar":"5 min",
                     "estTimeWalk":"36 min"},
                 {
                     "origin":"Kampar Bus Terminal",
+                    "destination":"Taman Bandar Baru Kampar",
                     "distance":"3 km",
                     "estTimeCar":"7 min",
                     "estTimeWalk":"33 min"
                 },
                 {   
                     "origin":"Kampar Railway Station",
+                    "destination":"Taman Bandar Baru Kampar",
                     "distance":"4.1 km",
                     "estTimeCar":"9 min",
                     "estTimeWalk":"50 min"
                 },
                 {   
                     "origin":"mmCineplexes Kampar",
+                    "destination":"Taman Bandar Baru Kampar",
                     "distance":"3 km",
                     "estTimeCar":"7 min",
                     "estTimeWalk":"37 min"
